@@ -1,0 +1,9 @@
+2019-11-14 15:17:58,236 INFO  [Log4jExample] Browser opened 
+2019-11-14 15:17:59,921 INFO  [Log4jExample] Click on Register 
+2019-11-14 15:18:00,317 INFO  [Log4jExample] Entering contact information 
+2019-11-14 15:18:00,777 INFO  [Log4jExample] Entering mailing information 
+2019-11-14 15:18:01,246 INFO  [Log4jExample] Selecting country 
+2019-11-14 15:18:01,352 INFO  [Log4jExample] Entering user information 
+2019-11-14 15:18:01,618 INFO  [Log4jExample] Clicking on register link 
+2019-11-14 15:18:02,452 INFO  [Log4jExample] Validation started 
+2019-11-14 15:18:02,470 INFO  [Log4jExample] Validation Done - Test Passed 
